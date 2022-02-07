@@ -12,7 +12,7 @@ function sayHi() {
 
 There is another syntax for creating a function that is called a *Function Expression*.
 
-It allows to create a new function in the middle of any expression.
+It allows us to create a new function in the middle of any expression.
 
 For example:
 
@@ -34,7 +34,7 @@ In more advanced situations, that we'll come across later, a function may be cre
 
 ## Function is a value
 
-Let's reiterate: no matter how the function is created, a function is a value. Both examples above store a function is `sayHi` variable.
+Let's reiterate: no matter how the function is created, a function is a value. Both examples above store a function in the `sayHi` variable.
 
 We can even print out that value using `alert`:
 
